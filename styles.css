@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    aspect-ratio: 10/4.5 !important;
+   
+}
+.slide2{
+    object-fit: cover;
+}
+.famous{
+    background-color: rgb(24, 37, 41);
+    font-size: clamp(15px,5vw,30px);
+    color: aqua;
+}
